@@ -1,0 +1,1222 @@
+SELECT * FROM trweb.tr_report_quarter where ric='000590.KS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='000673.SZ'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='000892.SZ'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='000996.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='001979.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='002103.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='002549.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='002739.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='002761.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='002765.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='002785.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='002788.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='002789.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='002790.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='002791.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='002792.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='002795.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='0038.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='006090.KS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='007570.KS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='0168.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='033270.KS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='033430.KQ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='035720.KQ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='037270.KS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='046120.KQ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='048410.KQ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='06N.WA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='0719.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='077360.KQ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='083650.KQ'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='0921.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='126880.KQ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='1384.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='1430.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='1431.FU'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='1434.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='1435.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='1954.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='204320.KS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2060.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2150.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2164.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2193.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2211.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2239.TW'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2378.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2425.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2586.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2633.TWO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2692.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2777.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2883.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2914.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2917.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='2GO.PS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300272.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300414.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300428.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300433.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300453.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300455.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300457.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300462.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300469.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300480.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300484.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300485.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300488.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300491.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300494.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300495.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300497.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300499.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300501.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='300506.SZ'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3040.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3066.NG'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3081.TWO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3131.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3132.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3135.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3137.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3138.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3139.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3194.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3199.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3221.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3223.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3224.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3242.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3319.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3380.TW'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='3384.NG'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3397.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3405.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3415.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3417.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3445.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3452.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3454.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3457.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3461.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3464.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3465.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3839.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3901.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3905.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3906.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3907.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3908.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3909.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3910.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3911.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3912.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3913.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3914.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3915.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3916.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3918.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3920.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3923.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3924.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3925.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3927.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3929.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='3JG.BB'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='3JJ.BB'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4151.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4248.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4312.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4452.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4463.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4551.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4575.T'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='4578.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4593.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4594.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4595.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4631.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4633.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4671.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4772.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4812.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4849.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4911.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4980.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='4VD.BB'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='5008.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='5021.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='5101.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='5105.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='5214.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='5281.TWO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='5753.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='5816.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='5819.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='5950.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='600146.SS'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='600193.SS'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='600231.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='600753.SS'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='600830.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='600870.SS'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='601155.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='601211.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='601900.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6026.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6027.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6029.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603012.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603022.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603028.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603066.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6032.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603377.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6035.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603508.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603520.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603566.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603608.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603636.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603778.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603779.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6038.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603866.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6039.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603959.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='603996.SS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6044.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6045.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6046.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6048.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6054.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6066.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6081.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6082.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6088.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6141.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6164.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6166.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6171.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6172.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6173.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6176.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6180.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6181.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6182.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6185.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6186.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6191.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6238.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6239.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6265.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6310.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6326.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6328.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6376.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6440.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6464.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6568.TWO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6640.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6730.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6789.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6856.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='6924.T'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='6AD.BB'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='6F2.BB'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='7169.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7175.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7177.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7274.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7421.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7780.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7781.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7812.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7813.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7814.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7815.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7816.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7936.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7946.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7984.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7985.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='7TH.BB'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8025.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8027.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8038.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8045.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8057.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8059.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8067.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8097.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8113.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8121.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8122.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8127.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8133.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8141.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8155.HK'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='8167.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8170.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8172.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8177.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8182.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8192.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8202.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8203.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8238.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8245.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8248.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8265.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8277.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8283.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8290.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8316.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8327.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8351.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8361.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8390.HK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8885.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8891.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8909.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8920.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='8922.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='900957.SS'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='9086.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='911608.TW'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='9416.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='9417.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='9418.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='9468.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='9517.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='9551.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='9643.NG'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='9749.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='9766.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='9830.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='9932.T'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AAN'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AAPb.ST'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ABCO.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ACIA.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ADAI.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ADOF.BO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AFI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AGF.PS'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='AGLE.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='AIMS.JK'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='AINC.K'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AIRF.PA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AJPH.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AJX'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AKE.CD'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='ALCAR.IS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ALIFb.ST'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ALKE.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ALKS.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ALMA.WA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AMDG.DE'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AMH2b.ST'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AMI.TO'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='AMTR.BO'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='APKMI.RTS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ARCW.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ASSI.BO'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='ASUP.KL'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ATIC.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ATPK.JK'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='ATVI.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AUMN.K'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='AVANCE.OL'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AXAC.OL'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='AXY.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BANPU.BK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BANPUf.BK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BANPUn.BK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BBI.V'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BDRX11.SA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BEGR.ST'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='BEIJb.ST'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BEM.BK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BEMf.BK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BEMn.BK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BIKA.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BIRD.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BISAS.IS'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='BKFS.K'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='BLIS.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BOLT.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BPMC.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='BPOST.BR'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BR.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BROO.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BSM'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='BTI.V'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='BUKK.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BVMF3.SA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='BZUN.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CAH'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CAMB4.SA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CANI.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CAPN.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='CBMA3.SA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CBMA4.SA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CBMG.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='CDR.WA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CEP.CN'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CEY.L'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CHCT.K'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='CHIA.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CIG.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CITA.JK'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='CKI.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CKRA.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CLBS.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='COEN.ST'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='COOR.ST'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CPGT.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CPSS.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CRBP.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='CROWN.PS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CSC'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CTMX.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CTT.LS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='CVA'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='CWST.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='DAMAC.DU'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='DLPA.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='DMAS.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='DRIO.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='DSTV.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='DWIT.BO'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='EBIX.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='EDIT.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='EDP.LS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='EDT.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='EEB.CN'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='EELT.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='EGCYH.IS'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='EGOV.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='EGRX.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='EHDR.CA'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='EICH.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='EMAA.DU'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ENVI.BR'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='EPC'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='EQCR.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ESGI.CA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ESTE.K'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='EVH'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='EXAS.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='FATE.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='FH.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='FHIPO14.MX'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='FIHu.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='FLOW.K'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='FMTY14.MX'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='FNJN.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='FTAI.K'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='FTV'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='G1AG.DE'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='G24n.DE'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='GARM.BO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='GHUSb.ST'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='GIHD.CA'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='GNCA.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='GSHC.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='GYHOL.IS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='HABT.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='HBP.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='HCLT.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='HEGR.ST'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='HEXA.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='HFRY.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='HMED.ST'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='HONBS.HE'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='HOVD.ST'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='HRI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='IDEL.BO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='IDM.WA'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='IFA1V.HE'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='IMPC.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='INGL.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='INO.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='INTM.BO'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='INVEST.HE'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='IPHI.K'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='IPT.WA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ISA.L'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ISRL.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='JAGX.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='JPFD.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='JUNO.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='KAYA.BO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='KDMN.K'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='KELL.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='KELV.BO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='KEPE.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='KEPL.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='KITE.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='KREB.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='LFL'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='LINK.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='LJPC.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='LRNA.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='LUHA.BO'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='LVNTA.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='LVNTB.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='LYMT.BO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='MDR'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='MEAL3.SA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='MFS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='MHEB.KL'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='MISC.KL'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='MIYO.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='MMLP.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='MRUS.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='MYL.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='MYOK.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='MYPL.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='MZOR.TA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='NEFF.K'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='NEP'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='NIA.V'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='NICO.ST'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='NOA.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='NRE'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='NSA'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='NTLA.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='NVCR.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='NYRT.K'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='OII'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='OILP.WA'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='OKDAV.HE'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='OKDBV.HE'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='OME'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='OMF'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='ONCE.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='ORTE.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='OVAS.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='PARKEN.CO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PBR'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PBRa'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PCAT.ST'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PCEN.SI'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='PCGB.KL'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PENE.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PERE.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PES'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PFIZ.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PGNX.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PIEZO.ST'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PJCa.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PJT'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PLAT.BK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PLATf.BK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PLATn.BK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PMTS.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PSK.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PTI.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PTIS.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PTXP.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='PULM.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='PXS.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='PXT.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='QDEL.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='QICu.V'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='QTCOM.HE'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='REGP.WA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='RELI.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='REPH.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='RGEN.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='RIGL.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='RLHA.MX'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ROSN.MM'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='ROSNq.L'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='RPD.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='RRHI.PS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='S'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SAREB.MX'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='SBPH.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SBS.PS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SERVE.IS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SHO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SIAP.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SICA.NS'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='SITESB1.MX'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SKH1.WA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SKYW.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SNGI.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SNKRN.IS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SOCI.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SOLARb.CO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SPTT.PR'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SRDC.BO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SRG'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SRTS.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='STEFb.ST'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='STEM.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='STOGR.CO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='STRL.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SUNA.BO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SURL.BO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SYNN.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='SYRG.K'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='TACO.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='TCA.V'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='TEAM.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='TGLT32T.SA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='THAK.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='THYO.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='TISI.K'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='TIV.CO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='TMM.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='TOYB3.SA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='TOYB4.SA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='TRN'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='TRVN.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='TSCP.KL'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='TSRO.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='TTOO.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='TULAV.HE'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='TWC.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='UFOM.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ULBI.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='UR.TO'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='VERTU.IS'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='VIA.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='VIAB.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='VICR.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='VINS.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='VIRT.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='VISTIN.OL'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='VIV'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='VRLL.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='VSN.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='VYGR.O'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='VYPR.BO'order by ts desc
+float division by zero
+SELECT * FROM trweb.tr_report_quarter where ric='WALC.NS'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='WCP.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='WING.O'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='WL6G.DE'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='WPPL.WA'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='WPSL.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='WRT1V.HE'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='WSR'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='XPRL.SI'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='YRI.TO'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='YULE.JK'order by ts desc
+list index out of range
+SELECT * FROM trweb.tr_report_quarter where ric='ZX'order by ts desc
+list index out of range

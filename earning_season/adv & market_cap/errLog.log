@@ -1,0 +1,2 @@
+INSERT INTO quarterly_adv_market_cap (ric, adv , market_cap) VALUES ('AMTG.K','#VALUE!','Unable to collect data for the field 'TR.CompanyMarketCap' and some specific identifier(s).')
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TR.CompanyMarketCap' and some specific identifier(s).')' at line 1")
